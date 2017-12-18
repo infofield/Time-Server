@@ -6,3 +6,5 @@
 
 Используя функцию AskTimeServer, напишите класс TimeServer со следующим интерфейсом:
 class TimeServer { public:  string GetCurrentTime(); private:  string LastFetchedTime = "00:00:00"; };
+
+Подробное описание задания в файле --- Работа с сервером времени_Coursera.pdf
